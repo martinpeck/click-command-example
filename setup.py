@@ -4,7 +4,7 @@ setup(
   name='SimpleClickExample',
   version='1.0',
   py_modules=['hello'],
-  instal_required=[
+  install_required=[
     'Click'
   ],
   entry_points='''
